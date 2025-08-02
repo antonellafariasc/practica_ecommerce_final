@@ -1,1 +1,7 @@
 .analisis/
+df_customers.csv
+df_Orders.csv
+df_Payments.csv
+df_Products.csv
+df_Orderitems.csv
+df_Completo.csv
